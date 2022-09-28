@@ -231,5 +231,9 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">Smart 5G</string>
     <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
+    
+    <!-- Fingerprint lockout -->
+    <string name="fingerprint_lockout_title">Disable fingerprint lockout</string>
+    <string name="fingerprint_lockout_summary">Deactivates 30 second timeout as well as permanent lockout after multiple failed fingerprint unlock attempts</string>
 
 </resources>
