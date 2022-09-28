@@ -231,5 +231,9 @@
     <!-- Disable 5G in battery saver -->
     <string name="battery_saver_5g_title">Turn off 5G</string>
     <string name="battery_saver_5g_summary">Disable 5G to save power when Battery Saver is on</string>
+    
+    <!-- Fingerprint lockout -->
+    <string name="fingerprint_lockout_title">Disable fingerprint lockout</string>
+    <string name="fingerprint_lockout_summary">Deactivates 30 second timeout as well as permanent lockout after multiple failed fingerprint unlock attempts</string>
 
 </resources>
