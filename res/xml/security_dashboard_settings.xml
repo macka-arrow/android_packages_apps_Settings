@@ -61,7 +61,7 @@
             android:summary="@string/summary_placeholder"
             settings:keywords="@string/keywords_biometric_settings" />
 
-        <org.derpfest.support.preferences.SystemSettingSwitchPreference
+        <com.arrow.support.preferences.SystemSettingSwitchPreference
             android:key="fingerprint_lockout"
             android:title="@string/fingerprint_lockout_title"
             android:summary="@string/fingerprint_lockout_summary"
