@@ -119,6 +119,13 @@
         android:dialogLayout="@layout/private_dns_mode_dialog"
         android:positiveButtonText="@string/save"
         android:negativeButtonText="@android:string/cancel" />
+    
+     <!-- Wi-Fi Standard icon -->
+     <com.arrow.support.preferences.SystemSettingSwitchPreference
+        android:key="show_wifi_standard_icon"
+        android:title="@string/show_wifi_standard_icon_title"
+        android:summary="@string/show_wifi_standard_icon_summary"
+        android:defaultValue="false" />         
 
     <Preference
         android:fragment="com.android.settings.network.AdaptiveConnectivitySettings"
